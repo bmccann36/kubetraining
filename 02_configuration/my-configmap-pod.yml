@@ -1,4 +1,4 @@
-apiVersion: v1
+qapiVersion: v1
 kind: Pod
 metadata:
   name: my-configmap-pod
